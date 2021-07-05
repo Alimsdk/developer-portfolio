@@ -1,0 +1,30 @@
+*{margin:0;
+padding: 0;
+box-sizing: border-box;}
+
+.top-banner{display: flex;
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+background-size: cover;}
+.half-width{width: 50%;
+padding-left: 5%;}
+.half-width img{width: 75%;}
+span{color: rgba(255, 87, 27, 0.89)}
+.headone{font-size: 50px;
+margin-top: 80px;}
+.headtwo{font-size: 50px;
+margin-top: 40px;
+margin-bottom: 30px;}
+h3{margin-bottom: 10px;}
+.half-width p{color: rgba(56, 55, 55, 0.911);
+margin-bottom: 40px;}
+#main-img{margin-top: 50px;}
+.link-btn{ text-decoration: none;
+          background-image: linear-gradient(120deg,orange,orangered);
+          padding: 10px;
+          color: white;
+          border-radius: 5px;
+          margin-top: 20px;
+          font-weight: 700;
+          margin:0 auto;
+}
